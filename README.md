@@ -41,19 +41,7 @@ linux-server-health-monitor/
 └── README.md
 ```
 
-## How to Run
 
-```bash
-chmod +x monitor.sh
-./monitor.sh
-```
-
-## Future Enhancements
-
-- Email Alerts
-- Slack Notifications
-- CPU Threshold Monitoring
-- Automated Scheduling with Cron Jobs
 
 ## Author
 
