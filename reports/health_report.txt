@@ -1,0 +1,28 @@
+===================================
+ Linux Server Health Report
+ Generated: Aug 31 2026 10:30:15
+===================================
+
+System Uptime:
+10:30:15 up 5 days, 4:12, 2 users, load average: 0.12, 0.18, 0.20
+
+Memory Usage:
+               total        used        free
+Mem:           7.6Gi       3.2Gi       2.8Gi
+Swap:          2.0Gi       0.0Gi       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use%
+/dev/sda1        50G   18G   30G  38%
+
+Top 5 Memory Consuming Processes:
+USER       PID %MEM COMMAND
+root      1023  4.2 java
+ubuntu    2021  3.8 chrome
+root      1001  2.5 dockerd
+
+Running Services:
+ssh.service
+cron.service
+docker.service
+networking.service
